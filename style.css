@@ -17,9 +17,6 @@ header {
 .app-title {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
-  font-size: 2.5rem;
-  color: #064f35; /* dark emerald green */
-  margin: 0;
 }
 
 /* Hero section */
@@ -93,3 +90,4 @@ footer {
   font-size: 0.9rem;
   color: #666;
 }
+
